@@ -1,4 +1,4 @@
-node-ejs-boostrap
+<H1>node-ejs-boostrap v1.0</H1>
 
 Steps to have this template up and running
 
